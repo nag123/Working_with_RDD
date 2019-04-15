@@ -1,0 +1,9 @@
+Hi
+WARN : this is a example for word count program
+WARN : let us count
+the number of words
+words are counted by number
+we are going to find the count of words
+count coming twice
+ERROR : words coming twice 
+now both are coming thrice
