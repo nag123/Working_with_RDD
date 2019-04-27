@@ -1,5 +1,0 @@
-package sparkwordcount
-
-object DealingWithRDD {
-  
-}
